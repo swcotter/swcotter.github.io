@@ -1,0 +1,66 @@
+#pt {
+        /* border-radius: 25px;
+        background: black; */
+        padding: 60px; 
+        width: 70%;
+        height: 25px;
+        color: FFF303;
+        font-size: 150;
+        line-height: .25;
+        margin: 0;
+        text-decoration-style: solid;
+
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+section {
+    color: white;
+    font-size: 20;
+
+}
+
+#home li {
+
+    list-style: none;
+    display: inline;
+    color: black;
+    font-size: 33;
+    margin-top: 2.5;
+    margin-bottom: 0;
+    margin: 8px;
+
+}
+
+#home li a {
+    text-decoration: none;
+    color: white;
+}
+#logo {
+    display: flex;
+    /* justify-content: space-evenly; */
+
+}
+#list2 {
+    list-style: none;
+}
+#ksw {
+    margin: 40px;
+    font-size: 24;
+    
+}
+#ksw2 {
+    margin: 40px;
+    font-size: 24;
+}
+
+#map {
+    margin: 40px;
+    
+}
+#home a {
+    width: 12px;
+    height: 12px;
+}

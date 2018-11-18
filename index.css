@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 20px;
+    border-color: coral;
+    border-width: 3px;
+    border-style: double
+}
+
+#welcome {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg");
+    background-size: cover;
+    padding: 100px 0 100px 0;
+    font-size: larger;
+    color: bisque;
+}
+
+article {
+    margin-top: 100px;
+    padding: 5px;
+    background-color: rgba(33, 33, 33, .6);
+    text-align: justify;
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+    margin-left: 20px;
+}

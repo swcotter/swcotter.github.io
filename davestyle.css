@@ -1,0 +1,74 @@
+header{
+    text-align: center;
+    text-shadow: 15px;
+
+    background-color: rgba(107, 104, 28, 1);
+    border-style: groove;
+
+    border-color: coral;
+    border-width: 3px;
+    padding: 20px 30px 40px 50px;
+}
+#left{
+    background-color:rgba(107, 104, 28, 1);
+    float: left;
+    font-size: 25pt;
+    font-style: normal;
+    padding: 0px 25px 781px 0px ;  
+}
+#right{
+    background-color:rgba(107, 104, 28, 1);
+    float: right;
+    font-size: 25pt;
+    font-style: normal;
+    padding: 0px 25px 1000px 0px ;  
+}
+
+#list1 {
+    list-style: none;
+    color: black;
+}
+section{
+   width: 100%;
+
+}
+.image-wrap{
+    display: flex;
+    width: 70%;
+}
+
+ul li a { 
+    text-decoration: none;
+    
+}
+a:link { 
+    color: rgb(0, 0, 0);
+}
+a:visited {
+    color: black;
+}
+article{
+    padding-block-start: 15pt;
+    margin: 10px 10px 10px 10px;
+    font-size: 15pt;
+    color: rgb(4, 23, 78);
+    background-color: rgb(141, 68, 19);
+}
+footer{
+  clear: both;
+  text-align: center;
+    text-shadow: 15px;
+   
+    background-color: rgba(107, 104, 28, 1);
+    border-style: groove;
+
+    border-color: coral;
+    border-width: 3px;
+    padding: 20px 30px 40px 50px;
+}
+#list2 li{
+    list-style: none;
+    display: inline;
+    color: black;
+    margin: 0px 10px 0px 10px;
+}
